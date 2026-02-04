@@ -1,0 +1,86 @@
+[
+  {
+    "wavelength_nm": 940,
+    "skin_type": "I",
+    "skin_name": "Very Fair",
+    "melanin_fraction": 0.01,
+    "penetration_depth_mm": 0.3469513154005321
+  },
+  {
+    "wavelength_nm": 940,
+    "skin_type": "II",
+    "skin_name": "Fair",
+    "melanin_fraction": 0.02,
+    "penetration_depth_mm": 0.34495326991641223
+  },
+  {
+    "wavelength_nm": 940,
+    "skin_type": "III",
+    "skin_name": "Medium",
+    "melanin_fraction": 0.035,
+    "penetration_depth_mm": 0.3418839862072691
+  },
+  {
+    "wavelength_nm": 940,
+    "skin_type": "IV",
+    "skin_name": "Olive",
+    "melanin_fraction": 0.06,
+    "penetration_depth_mm": 0.3368949809508034
+  },
+  {
+    "wavelength_nm": 940,
+    "skin_type": "V",
+    "skin_name": "Brown",
+    "melanin_fraction": 0.1,
+    "penetration_depth_mm": 0.32864468776030037
+  },
+  {
+    "wavelength_nm": 940,
+    "skin_type": "VI",
+    "skin_name": "Dark Brown/Black",
+    "melanin_fraction": 0.15,
+    "penetration_depth_mm": 0.31729385527822435
+  },
+  {
+    "wavelength_nm": 500,
+    "skin_type": "I",
+    "skin_name": "Very Fair",
+    "melanin_fraction": 0.01,
+    "penetration_depth_mm": 0.1846903989586992
+  },
+  {
+    "wavelength_nm": 500,
+    "skin_type": "II",
+    "skin_name": "Fair",
+    "melanin_fraction": 0.02,
+    "penetration_depth_mm": 0.1717207723318481
+  },
+  {
+    "wavelength_nm": 500,
+    "skin_type": "III",
+    "skin_name": "Medium",
+    "melanin_fraction": 0.035,
+    "penetration_depth_mm": 0.1524065248563464
+  },
+  {
+    "wavelength_nm": 500,
+    "skin_type": "IV",
+    "skin_name": "Olive",
+    "melanin_fraction": 0.06,
+    "penetration_depth_mm": 0.11349787396753716
+  },
+  {
+    "wavelength_nm": 500,
+    "skin_type": "V",
+    "skin_name": "Brown",
+    "melanin_fraction": 0.1,
+    "penetration_depth_mm": 0.08535047538733527
+  },
+  {
+    "wavelength_nm": 500,
+    "skin_type": "VI",
+    "skin_name": "Dark Brown/Black",
+    "melanin_fraction": 0.15,
+    "penetration_depth_mm": 0.06437018542732711
+  }
+]

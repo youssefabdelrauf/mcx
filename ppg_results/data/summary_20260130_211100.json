@@ -1,0 +1,464 @@
+[
+  {
+    "wavelength_nm": 500,
+    "skin_type": "I",
+    "skin_name": "Very Fair",
+    "melanin_fraction": 0.01,
+    "penetration_depth_mm": 0.18406593387245296
+  },
+  {
+    "wavelength_nm": 500,
+    "skin_type": "II",
+    "skin_name": "Fair",
+    "melanin_fraction": 0.02,
+    "penetration_depth_mm": 0.17247987231402548
+  },
+  {
+    "wavelength_nm": 500,
+    "skin_type": "III",
+    "skin_name": "Medium",
+    "melanin_fraction": 0.035,
+    "penetration_depth_mm": 0.1528342128857052
+  },
+  {
+    "wavelength_nm": 500,
+    "skin_type": "IV",
+    "skin_name": "Olive",
+    "melanin_fraction": 0.06,
+    "penetration_depth_mm": 0.11342808456926474
+  },
+  {
+    "wavelength_nm": 500,
+    "skin_type": "V",
+    "skin_name": "Brown",
+    "melanin_fraction": 0.1,
+    "penetration_depth_mm": 0.08550205788117227
+  },
+  {
+    "wavelength_nm": 500,
+    "skin_type": "VI",
+    "skin_name": "Dark Brown/Black",
+    "melanin_fraction": 0.15,
+    "penetration_depth_mm": 0.06422179875699831
+  },
+  {
+    "wavelength_nm": 550,
+    "skin_type": "I",
+    "skin_name": "Very Fair",
+    "melanin_fraction": 0.01,
+    "penetration_depth_mm": 0.20243044719599765
+  },
+  {
+    "wavelength_nm": 550,
+    "skin_type": "II",
+    "skin_name": "Fair",
+    "melanin_fraction": 0.02,
+    "penetration_depth_mm": 0.1940552342847015
+  },
+  {
+    "wavelength_nm": 550,
+    "skin_type": "III",
+    "skin_name": "Medium",
+    "melanin_fraction": 0.035,
+    "penetration_depth_mm": 0.18054184843045734
+  },
+  {
+    "wavelength_nm": 550,
+    "skin_type": "IV",
+    "skin_name": "Olive",
+    "melanin_fraction": 0.06,
+    "penetration_depth_mm": 0.15510249485776653
+  },
+  {
+    "wavelength_nm": 550,
+    "skin_type": "V",
+    "skin_name": "Brown",
+    "melanin_fraction": 0.1,
+    "penetration_depth_mm": 0.10776218330584549
+  },
+  {
+    "wavelength_nm": 550,
+    "skin_type": "VI",
+    "skin_name": "Dark Brown/Black",
+    "melanin_fraction": 0.15,
+    "penetration_depth_mm": 0.08403052695336159
+  },
+  {
+    "wavelength_nm": 600,
+    "skin_type": "I",
+    "skin_name": "Very Fair",
+    "melanin_fraction": 0.01,
+    "penetration_depth_mm": 0.22259699105070863
+  },
+  {
+    "wavelength_nm": 600,
+    "skin_type": "II",
+    "skin_name": "Fair",
+    "melanin_fraction": 0.02,
+    "penetration_depth_mm": 0.21615313966661273
+  },
+  {
+    "wavelength_nm": 600,
+    "skin_type": "III",
+    "skin_name": "Medium",
+    "melanin_fraction": 0.035,
+    "penetration_depth_mm": 0.20586407720018304
+  },
+  {
+    "wavelength_nm": 600,
+    "skin_type": "IV",
+    "skin_name": "Olive",
+    "melanin_fraction": 0.06,
+    "penetration_depth_mm": 0.18722719962285325
+  },
+  {
+    "wavelength_nm": 600,
+    "skin_type": "V",
+    "skin_name": "Brown",
+    "melanin_fraction": 0.1,
+    "penetration_depth_mm": 0.15252195895469486
+  },
+  {
+    "wavelength_nm": 600,
+    "skin_type": "VI",
+    "skin_name": "Dark Brown/Black",
+    "melanin_fraction": 0.15,
+    "penetration_depth_mm": 0.10593281433790551
+  },
+  {
+    "wavelength_nm": 650,
+    "skin_type": "I",
+    "skin_name": "Very Fair",
+    "melanin_fraction": 0.01,
+    "penetration_depth_mm": 0.24026010093205408
+  },
+  {
+    "wavelength_nm": 650,
+    "skin_type": "II",
+    "skin_name": "Fair",
+    "melanin_fraction": 0.02,
+    "penetration_depth_mm": 0.23520845012941544
+  },
+  {
+    "wavelength_nm": 650,
+    "skin_type": "III",
+    "skin_name": "Medium",
+    "melanin_fraction": 0.035,
+    "penetration_depth_mm": 0.2272928985265979
+  },
+  {
+    "wavelength_nm": 650,
+    "skin_type": "IV",
+    "skin_name": "Olive",
+    "melanin_fraction": 0.06,
+    "penetration_depth_mm": 0.2132631813213933
+  },
+  {
+    "wavelength_nm": 650,
+    "skin_type": "V",
+    "skin_name": "Brown",
+    "melanin_fraction": 0.1,
+    "penetration_depth_mm": 0.18762477100721847
+  },
+  {
+    "wavelength_nm": 650,
+    "skin_type": "VI",
+    "skin_name": "Dark Brown/Black",
+    "melanin_fraction": 0.15,
+    "penetration_depth_mm": 0.15062213929118679
+  },
+  {
+    "wavelength_nm": 700,
+    "skin_type": "I",
+    "skin_name": "Very Fair",
+    "melanin_fraction": 0.01,
+    "penetration_depth_mm": 0.25944326545154933
+  },
+  {
+    "wavelength_nm": 700,
+    "skin_type": "II",
+    "skin_name": "Fair",
+    "melanin_fraction": 0.02,
+    "penetration_depth_mm": 0.25537348209276656
+  },
+  {
+    "wavelength_nm": 700,
+    "skin_type": "III",
+    "skin_name": "Medium",
+    "melanin_fraction": 0.035,
+    "penetration_depth_mm": 0.24892816256764017
+  },
+  {
+    "wavelength_nm": 700,
+    "skin_type": "IV",
+    "skin_name": "Olive",
+    "melanin_fraction": 0.06,
+    "penetration_depth_mm": 0.23755331677804473
+  },
+  {
+    "wavelength_nm": 700,
+    "skin_type": "V",
+    "skin_name": "Brown",
+    "melanin_fraction": 0.1,
+    "penetration_depth_mm": 0.2176968303003323
+  },
+  {
+    "wavelength_nm": 700,
+    "skin_type": "VI",
+    "skin_name": "Dark Brown/Black",
+    "melanin_fraction": 0.15,
+    "penetration_depth_mm": 0.19016147641348666
+  },
+  {
+    "wavelength_nm": 750,
+    "skin_type": "I",
+    "skin_name": "Very Fair",
+    "melanin_fraction": 0.01,
+    "penetration_depth_mm": 0.27815271498694955
+  },
+  {
+    "wavelength_nm": 750,
+    "skin_type": "II",
+    "skin_name": "Fair",
+    "melanin_fraction": 0.02,
+    "penetration_depth_mm": 0.2748289354894541
+  },
+  {
+    "wavelength_nm": 750,
+    "skin_type": "III",
+    "skin_name": "Medium",
+    "melanin_fraction": 0.035,
+    "penetration_depth_mm": 0.2696126280563699
+  },
+  {
+    "wavelength_nm": 750,
+    "skin_type": "IV",
+    "skin_name": "Olive",
+    "melanin_fraction": 0.06,
+    "penetration_depth_mm": 0.26066910090376355
+  },
+  {
+    "wavelength_nm": 750,
+    "skin_type": "V",
+    "skin_name": "Brown",
+    "melanin_fraction": 0.1,
+    "penetration_depth_mm": 0.24501448003091617
+  },
+  {
+    "wavelength_nm": 750,
+    "skin_type": "VI",
+    "skin_name": "Dark Brown/Black",
+    "melanin_fraction": 0.15,
+    "penetration_depth_mm": 0.2231731873223553
+  },
+  {
+    "wavelength_nm": 800,
+    "skin_type": "I",
+    "skin_name": "Very Fair",
+    "melanin_fraction": 0.01,
+    "penetration_depth_mm": 0.2963459760359224
+  },
+  {
+    "wavelength_nm": 800,
+    "skin_type": "II",
+    "skin_name": "Fair",
+    "melanin_fraction": 0.02,
+    "penetration_depth_mm": 0.2936314068655845
+  },
+  {
+    "wavelength_nm": 800,
+    "skin_type": "III",
+    "skin_name": "Medium",
+    "melanin_fraction": 0.035,
+    "penetration_depth_mm": 0.28940435349680443
+  },
+  {
+    "wavelength_nm": 800,
+    "skin_type": "IV",
+    "skin_name": "Olive",
+    "melanin_fraction": 0.06,
+    "penetration_depth_mm": 0.28198205487960293
+  },
+  {
+    "wavelength_nm": 800,
+    "skin_type": "V",
+    "skin_name": "Brown",
+    "melanin_fraction": 0.1,
+    "penetration_depth_mm": 0.2696981067368697
+  },
+  {
+    "wavelength_nm": 800,
+    "skin_type": "VI",
+    "skin_name": "Dark Brown/Black",
+    "melanin_fraction": 0.15,
+    "penetration_depth_mm": 0.2519469031297372
+  },
+  {
+    "wavelength_nm": 850,
+    "skin_type": "I",
+    "skin_name": "Very Fair",
+    "melanin_fraction": 0.01,
+    "penetration_depth_mm": 0.31503980498869555
+  },
+  {
+    "wavelength_nm": 850,
+    "skin_type": "II",
+    "skin_name": "Fair",
+    "melanin_fraction": 0.02,
+    "penetration_depth_mm": 0.31272458536657827
+  },
+  {
+    "wavelength_nm": 850,
+    "skin_type": "III",
+    "skin_name": "Medium",
+    "melanin_fraction": 0.035,
+    "penetration_depth_mm": 0.30917365946699765
+  },
+  {
+    "wavelength_nm": 850,
+    "skin_type": "IV",
+    "skin_name": "Olive",
+    "melanin_fraction": 0.06,
+    "penetration_depth_mm": 0.3031831232544376
+  },
+  {
+    "wavelength_nm": 850,
+    "skin_type": "V",
+    "skin_name": "Brown",
+    "melanin_fraction": 0.1,
+    "penetration_depth_mm": 0.29281751675448914
+  },
+  {
+    "wavelength_nm": 850,
+    "skin_type": "VI",
+    "skin_name": "Dark Brown/Black",
+    "melanin_fraction": 0.15,
+    "penetration_depth_mm": 0.27851465365874206
+  },
+  {
+    "wavelength_nm": 900,
+    "skin_type": "I",
+    "skin_name": "Very Fair",
+    "melanin_fraction": 0.01,
+    "penetration_depth_mm": 0.33476617389749896
+  },
+  {
+    "wavelength_nm": 900,
+    "skin_type": "II",
+    "skin_name": "Fair",
+    "melanin_fraction": 0.02,
+    "penetration_depth_mm": 0.3326468199237894
+  },
+  {
+    "wavelength_nm": 900,
+    "skin_type": "III",
+    "skin_name": "Medium",
+    "melanin_fraction": 0.035,
+    "penetration_depth_mm": 0.32938154086257754
+  },
+  {
+    "wavelength_nm": 900,
+    "skin_type": "IV",
+    "skin_name": "Olive",
+    "melanin_fraction": 0.06,
+    "penetration_depth_mm": 0.32369765937095596
+  },
+  {
+    "wavelength_nm": 900,
+    "skin_type": "V",
+    "skin_name": "Brown",
+    "melanin_fraction": 0.1,
+    "penetration_depth_mm": 0.31433779462993433
+  },
+  {
+    "wavelength_nm": 900,
+    "skin_type": "VI",
+    "skin_name": "Dark Brown/Black",
+    "melanin_fraction": 0.15,
+    "penetration_depth_mm": 0.30252673474842473
+  },
+  {
+    "wavelength_nm": 950,
+    "skin_type": "I",
+    "skin_name": "Very Fair",
+    "melanin_fraction": 0.01,
+    "penetration_depth_mm": 0.3542382058645984
+  },
+  {
+    "wavelength_nm": 950,
+    "skin_type": "II",
+    "skin_name": "Fair",
+    "melanin_fraction": 0.02,
+    "penetration_depth_mm": 0.3522268400178991
+  },
+  {
+    "wavelength_nm": 950,
+    "skin_type": "III",
+    "skin_name": "Medium",
+    "melanin_fraction": 0.035,
+    "penetration_depth_mm": 0.3492158150197405
+  },
+  {
+    "wavelength_nm": 950,
+    "skin_type": "IV",
+    "skin_name": "Olive",
+    "melanin_fraction": 0.06,
+    "penetration_depth_mm": 0.3443562753965886
+  },
+  {
+    "wavelength_nm": 950,
+    "skin_type": "V",
+    "skin_name": "Brown",
+    "melanin_fraction": 0.1,
+    "penetration_depth_mm": 0.33611143321657844
+  },
+  {
+    "wavelength_nm": 950,
+    "skin_type": "VI",
+    "skin_name": "Dark Brown/Black",
+    "melanin_fraction": 0.15,
+    "penetration_depth_mm": 0.32531620091081576
+  },
+  {
+    "wavelength_nm": 1000,
+    "skin_type": "I",
+    "skin_name": "Very Fair",
+    "melanin_fraction": 0.01,
+    "penetration_depth_mm": 0.37296848343069844
+  },
+  {
+    "wavelength_nm": 1000,
+    "skin_type": "II",
+    "skin_name": "Fair",
+    "melanin_fraction": 0.02,
+    "penetration_depth_mm": 0.37114670621758633
+  },
+  {
+    "wavelength_nm": 1000,
+    "skin_type": "III",
+    "skin_name": "Medium",
+    "melanin_fraction": 0.035,
+    "penetration_depth_mm": 0.3684498831242608
+  },
+  {
+    "wavelength_nm": 1000,
+    "skin_type": "IV",
+    "skin_name": "Olive",
+    "melanin_fraction": 0.06,
+    "penetration_depth_mm": 0.36392772234627574
+  },
+  {
+    "wavelength_nm": 1000,
+    "skin_type": "V",
+    "skin_name": "Brown",
+    "melanin_fraction": 0.1,
+    "penetration_depth_mm": 0.3565765891355406
+  },
+  {
+    "wavelength_nm": 1000,
+    "skin_type": "VI",
+    "skin_name": "Dark Brown/Black",
+    "melanin_fraction": 0.15,
+    "penetration_depth_mm": 0.347250265658864
+  }
+]

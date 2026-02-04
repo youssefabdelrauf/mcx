@@ -1,0 +1,71 @@
+[
+  {
+    "bilirubin_mg_dl": 0.0,
+    "penetration_depth_mm": 0.095,
+    "total_absorbed_energy": 0.24640491604804993,
+    "layer_absorption": {
+      "stratum_corneum": {
+        "total_energy": 0.0025365629699081182,
+        "fraction": 0.010294287465512753
+      },
+      "epidermis": {
+        "total_energy": 0.08471190184354782,
+        "fraction": 0.3437914550304413
+      },
+      "dermis": {
+        "total_energy": 0.1591564416885376,
+        "fraction": 0.6459142565727234
+      },
+      "subcutis": {
+        "total_energy": 0.0,
+        "fraction": 0.0
+      }
+    }
+  },
+  {
+    "bilirubin_mg_dl": 10.0,
+    "penetration_depth_mm": 0.15,
+    "total_absorbed_energy": 0.33023059368133545,
+    "layer_absorption": {
+      "stratum_corneum": {
+        "total_energy": 0.002509321318939328,
+        "fraction": 0.007598694413900375
+      },
+      "epidermis": {
+        "total_energy": 0.08352989703416824,
+        "fraction": 0.25294414162635803
+      },
+      "dermis": {
+        "total_energy": 0.24419137835502625,
+        "fraction": 0.7394571900367737
+      },
+      "subcutis": {
+        "total_energy": 0.0,
+        "fraction": 0.0
+      }
+    }
+  },
+  {
+    "bilirubin_mg_dl": 20.0,
+    "penetration_depth_mm": 0.19,
+    "total_absorbed_energy": 0.3976197838783264,
+    "layer_absorption": {
+      "stratum_corneum": {
+        "total_energy": 0.0024880783166736364,
+        "fraction": 0.006257431115955114
+      },
+      "epidermis": {
+        "total_energy": 0.08260421454906464,
+        "fraction": 0.2077467441558838
+      },
+      "dermis": {
+        "total_energy": 0.31252750754356384,
+        "fraction": 0.7859958410263062
+      },
+      "subcutis": {
+        "total_energy": 0.0,
+        "fraction": 0.0
+      }
+    }
+  }
+]
