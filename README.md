@@ -10,6 +10,12 @@ This repository contains the code and simulation framework for our research on e
 
 **Key Finding**: We identified 880 nm as an intrinsically melanin-independent wavelength and a novel 530/590 nm wavelength pair that achieves a **91.9% reduction** in skin-tone-dependent SpO₂ bias compared to the standard 660/940 nm configuration.
 
+## GUI Demo
+
+https://github.com/user-attachments/assets/Screen%20Recording%202026-02-05%20220429.mp4
+
+*The interactive PyQt5 GUI allows configuration of simulation parameters, running optimizations, and visualizing results.*
+
 ## Team
 
 **Authors:**  
