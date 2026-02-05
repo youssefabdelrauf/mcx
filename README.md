@@ -35,7 +35,7 @@ python ppg_gui.py
 ## Team
 
 **Authors:**  
-Youssef Mahmoud Abdelrauf Mostafa, Rahma Ashraf Mohamed Khalifa, Rawan Abdallah Kotb, Habiba Abdelmneam Ramadan Abdelmneam, Mahmoud Mohamed Mahmoud Ahmed
+Youssef Mahmoud Abdelrauf Mostafa, Rahma Ashraf Mohamed Khalifa, Rawan Abdallah Kotb, Habiba Abdelmneam Ramadan , Mahmoud Mohamed Mahmoud Ahmed
 
 **Institution:** Cairo University  
 **Contact:** ashrafrahma402@gmail.com  
@@ -62,8 +62,7 @@ Using high-fidelity Monte Carlo tissue modeling, we identified hardware-level de
 
 ## Key Results
 
-![PI Variance vs Wavelength](pi_variance_vs_wavelength.png)
-*Figure: Perfusion Index (PI) variance across Fitzpatrick skin types I-VI as a function of wavelength. Lower variance indicates better melanin independence. The minimum at 880 nm demonstrates optimal skin-tone-independent performance.*
+
 
 ### 1. Optimal Single Wavelength: 880 nm
 - **98.27% melanin independence score**
