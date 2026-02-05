@@ -242,9 +242,7 @@ python scripts/generate_figures.py --figure optimization_summary
 
 ## Key Findings in Detail
 
-### Wavelength Optimization Results
 
-The graph above shows the complete wavelength sweep from 500-1000 nm. Key wavelengths of interest:
 
 | Wavelength (nm) | PI Variance (σ²) | Independence Score (%) |
 |-----------------|------------------|------------------------|
