@@ -12,9 +12,25 @@ This repository contains the code and simulation framework for our research on e
 
 ## GUI Demo
 
-<video src="Screen Recording 2026-02-05 220429.mp4" controls width="100%"></video>
+![GUI Demo](Screen%20Recording%202026-02-05%20220429.mp4)
 
 *The interactive PyQt5 GUI allows configuration of simulation parameters, running optimizations, and visualizing results.*
+
+### Running the GUI
+
+To launch the graphical interface:
+
+```bash
+cd mcx
+python ppg_gui.py
+```
+
+**GUI Features:**
+- Configure wavelength range, skin types, and photon counts
+- Run wavelength optimization, SDD optimization, and SpO₂ pair analysis
+- View real-time simulation progress
+- Visualize results with interactive plots
+- Export optimization results
 
 ## Team
 
