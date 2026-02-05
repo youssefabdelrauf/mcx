@@ -290,19 +290,7 @@ The graph above shows the complete wavelength sweep from 500-1000 nm. Key wavele
 3. **Multi-Modal Extension:** Applying framework to other optical sensing modalities
 4. **Real-Time Algorithms:** Combining hardware optimization with adaptive signal processing
 
-## Citation
 
-If you use this work in your research, please cite:
-
-```bibtex
-@article{mostafa2026ppg,
-  title={Wavelength and Sensor Geometry Optimization to Eliminate Skin-Tone Bias in Photoplethysmography},
-  author={Mostafa, Youssef Mahmoud Abdelrauf and Khalifa, Rahma Ashraf Mohamed and Kotb, Rawan Abdallah and Abdelmneam, Habiba Abdelmneam Ramadan and Ahmed, Mahmoud Mohamed Mahmoud},
-  journal={In preparation},
-  year={2026},
-  institution={Cairo University}
-}
-```
 
 ## Related Publications
 
