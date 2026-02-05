@@ -40,6 +40,9 @@ Using high-fidelity Monte Carlo tissue modeling, we identified hardware-level de
 
 ## Key Results
 
+![PI Variance vs Wavelength](pi_variance_vs_wavelength.png)
+*Figure: Perfusion Index (PI) variance across Fitzpatrick skin types I-VI as a function of wavelength. Lower variance indicates better melanin independence. The minimum at 880 nm demonstrates optimal skin-tone-independent performance.*
+
 ### 1. Optimal Single Wavelength: 880 nm
 - **98.27% melanin independence score**
 - Negligible perfusion index variance across all skin tones (σ² = 2.65 × 10⁻⁹)
@@ -107,6 +110,8 @@ SpO₂ levels of 70%, 80%, 90%, and 100% were simulated using linear mixtures of
 │   ├── analyze_pi_variance.py
 │   ├── calculate_ror_bias.py
 │   └── generate_figures.py
+├── images/                    # Figures and visualizations
+│   └── pi_variance_vs_wavelength.png
 ├── figures/                   # Publication-quality figures
 ├── docs/                      # Additional documentation
 └── README.md
@@ -218,12 +223,18 @@ python scripts/generate_figures.py --figure optimization_summary
 
 ### Wavelength Optimization Results
 
+The graph above shows the complete wavelength sweep from 500-1000 nm. Key wavelengths of interest:
+
 | Wavelength (nm) | PI Variance (σ²) | Independence Score (%) |
 |-----------------|------------------|------------------------|
 | 500             | 8.54 × 10⁻⁹      | 94.42                  |
+| 530 (proposed)  | 3.97 × 10⁻⁸      | 74.10                  |
+| 590 (proposed)  | 1.39 × 10⁻⁷      | 9.25                   |
 | 660 (standard)  | 1.75 × 10⁻⁸      | 88.59                  |
 | **880 (optimal)** | **2.65 × 10⁻⁹** | **98.27**             |
 | 940 (standard)  | 2.24 × 10⁻⁸      | 85.38                  |
+
+*Note: The 530/590 nm pair achieves 91.9% bias reduction through complementary spectral properties, not individual wavelength independence.*
 
 ### Physical Interpretation
 
