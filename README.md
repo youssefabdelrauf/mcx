@@ -12,7 +12,7 @@ This repository contains the code and simulation framework for our research on e
 
 ## GUI Demo
 
-![GUI Demo](Screen%20Recording%202026-02-05%20220429.mp4)
+![GUI Demo](Screen%20Recording%202026-02-05%20220429.gif)
 
 *The interactive PyQt5 GUI allows configuration of simulation parameters, running optimizations, and visualizing results.*
 
